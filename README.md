@@ -212,26 +212,6 @@ health-ml-early-warning/
 
 ---
 
-## Limitations & Future Work
-
-### Current Limitations
-- **Synthetic Data**: Models trained on generated data; performance on real-world data TBD
-- **Individual Variability**: Current models use population-level patterns; personalization needed
-- **Causality**: Models detect correlations, not causal relationships
-- **Binary Gender Assumption**: Current features don't account for demographic diversity
-
-### Future Enhancements
-- [ ] Real user data collection with proper consent and privacy safeguards
-- [ ] Transfer learning from population model to personalized models
-- [ ] Integration with wearable devices (heart rate variability, sleep stages)
-- [ ] Deep learning approaches (LSTM for temporal dependencies)
-- [ ] Multi-modal inputs (text journals, voice analysis)
-- [ ] Clinical validation studies
-- [ ] Mobile application deployment
-- [ ] Federated learning for privacy-preserving model updates
-
----
-
 ## Applications
 
 ### Research
