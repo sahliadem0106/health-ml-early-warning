@@ -15,8 +15,6 @@ This project implements a dual-model system for health monitoring:
 1. **Anomaly Detection** (Isolation Forest): Identifies unusual patterns in daily health metrics with 92% accuracy on synthetic stress events
 2. **Mood Prediction** (Random Forest): Attempts next-day mood forecasting, achieving training MAE of 0.41 but experiencing generalization challenges (test MAE: 0.86)
 
-The project demonstrates both successful ML implementation (anomaly detection) and common challenges (overfitting in time-series prediction), making it a realistic learning experience in applied machine learning.
-
 ---
 
 ## Key Features
