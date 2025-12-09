@@ -73,7 +73,7 @@ Feature Engineering (12 engineered features)
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/health-ml-early-warning.git
+git clone https://github.com/sahliadem0106/health-ml-early-warning.git
 cd health-ml-early-warning
 
 # Install dependencies
@@ -285,7 +285,7 @@ If you use this work in your research or projects, please cite:
   author = {[Your Name]},
   title = {Personal Health Early-Warning System},
   year = {2024},
-  url = {https://github.com/yourusername/health-ml-early-warning}
+  url = {https://github.com/sahliadem0106/health-ml-early-warning}
 }
 ```
 
@@ -302,7 +302,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **[Your Name]**  
 [Your University/Institution]  
 [your.email@example.com]  
-[LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+[LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/sahliadem0106)
 
 *Developed as part of ETH Zurich SSRF application demonstrating competency in machine learning, data engineering, and health informatics.*
 
