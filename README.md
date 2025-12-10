@@ -112,6 +112,8 @@ RECOMMENDATIONS:
 ---
 
 ## Model Performance
+<img width="4162" height="2955" alt="anomaly_detection_results" src="https://github.com/user-attachments/assets/27206d9b-38ac-4183-bc7d-75f9557f20a9" />
+<img width="4770" height="3543" alt="mood_prediction_results" src="https://github.com/user-attachments/assets/e130733f-e777-464b-aa0a-b00946e32a6a" />
 
 ### Anomaly Detection (Strong Performance) ✅
 
